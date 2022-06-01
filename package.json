@@ -287,7 +287,7 @@
     "redux-thunk": "^2.3.0",
     "request": "^2.88.0",
     "resize-img": "^1.1.2",
-    "sharp": "^0.21.0",
+    "sharp": "^0.30.5",
     "source-map-support": "^0.5.9",
     "sqlite3": "^4.0.4"
   },
